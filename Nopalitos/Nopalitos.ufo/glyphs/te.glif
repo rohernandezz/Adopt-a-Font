@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="te" format="2">
+	<advance width="1338"/>
+	<outline>
+		<contour>
+			<point x="20" y="790" type="line"/>
+			<point x="58" y="790"/>
+			<point x="73" y="252"/>
+			<point x="73" y="193" type="curve"/>
+			<point x="83" y="193" type="line"/>
+			<point x="83" y="252"/>
+			<point x="406" y="741"/>
+			<point x="457" y="741" type="curve"/>
+			<point x="363" y="781" type="line"/>
+			<point x="255" y="740" type="line"/>
+			<point x="599" y="740" type="line"/>
+			<point x="599" y="800" type="line"/>
+			<point x="20" y="800" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-06-12 22:51:58 +0000</string>
+		</dict>
+	</lib>
+</glyph>

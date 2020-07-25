@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I" format="2">
+	<advance width="806"/>
+	<unicode hex="0049"/>
+	<outline>
+		<contour>
+			<point x="198" y="800" type="line"/>
+			<point x="198" y="0" type="line"/>
+			<point x="598" y="0" type="line"/>
+			<point x="598" y="800" type="line"/>
+		</contour>
+		<contour>
+			<point x="198" y="344" type="curve"/>
+			<point x="198" y="800" type="line"/>
+			<point x="0" y="800" type="line"/>
+			<point x="0" y="790" type="line"/>
+			<point x="20" y="790"/>
+			<point x="198" y="407"/>
+		</contour>
+		<contour>
+			<point x="198" y="336" type="line"/>
+			<point x="198" y="295"/>
+			<point x="28" y="10"/>
+			<point x="0" y="10" type="curve"/>
+			<point x="0" y="0" type="line"/>
+			<point x="198" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="598" y="344" type="line"/>
+			<point x="598" y="411"/>
+			<point x="767" y="790"/>
+			<point x="796" y="790" type="curve"/>
+			<point x="796" y="800" type="line"/>
+			<point x="598" y="800" type="line"/>
+		</contour>
+		<contour>
+			<point x="598" y="336" type="curve"/>
+			<point x="598" y="0" type="line"/>
+			<point x="796" y="0" type="line"/>
+			<point x="796" y="10" type="line"/>
+			<point x="768" y="10"/>
+			<point x="598" y="295"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-06-12 23:53:11 +0000</string>
+		</dict>
+	</lib>
+</glyph>
