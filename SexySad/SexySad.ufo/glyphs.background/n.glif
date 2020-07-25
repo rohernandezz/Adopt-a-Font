@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n" format="2">
+  <advance width="500"/>
+  <unicode hex="006E"/>
+  <image fileName="S_exyS_ad_01.png" xScale="1.8206727697474663" xyScale="0.001826590000378975" yxScale="-0.001826590000378975" yScale="1.8206727697474663" xOffset="-628.930145366046" yOffset="-1292.3847266986777"/>
+  <outline>
+  </outline>
+</glyph>
