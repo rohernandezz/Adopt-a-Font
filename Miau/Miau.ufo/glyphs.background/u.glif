@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u" format="2">
+  <advance width="500"/>
+  <unicode hex="0075"/>
+  <image fileName="ubrefang.jpeg" xScale="1.612920831399048" yScale="1.612920831399048" xOffset="-116.32364810330887" yOffset="-283.01049233252616"/>
+  <outline>
+    <contour>
+      <point x="353" y="213" type="line" smooth="yes"/>
+      <point x="353" y="132"/>
+      <point x="308" y="95"/>
+      <point x="242" y="95" type="curve" smooth="yes"/>
+      <point x="181" y="95"/>
+      <point x="151" y="120"/>
+      <point x="151" y="212" type="curve" smooth="yes"/>
+      <point x="151" y="498" type="line"/>
+      <point x="137" y="514" type="line"/>
+      <point x="82" y="498"/>
+      <point x="32" y="477"/>
+      <point x="-10" y="447" type="curve"/>
+      <point x="-8" y="408" type="line"/>
+      <point x="20" y="400"/>
+      <point x="54" y="388"/>
+      <point x="54" y="326" type="curve" smooth="yes"/>
+      <point x="54" y="157" type="line" smooth="yes"/>
+      <point x="54" y="65"/>
+      <point x="80" y="-9"/>
+      <point x="197" y="-9" type="curve" smooth="yes"/>
+      <point x="279" y="-9"/>
+      <point x="327" y="49"/>
+      <point x="360" y="106" type="curve"/>
+      <point x="344" y="120" type="line"/>
+      <point x="351" y="-13" type="line"/>
+      <point x="403" y="-15"/>
+      <point x="467" y="7"/>
+      <point x="518" y="36" type="curve"/>
+      <point x="516" y="70" type="line"/>
+      <point x="465" y="78"/>
+      <point x="450" y="98"/>
+      <point x="450" y="176" type="curve" smooth="yes"/>
+      <point x="450" y="497" type="line"/>
+      <point x="436" y="510" type="line"/>
+      <point x="382" y="499"/>
+      <point x="322" y="479"/>
+      <point x="287" y="454" type="curve"/>
+      <point x="289" y="412" type="line"/>
+      <point x="317" y="404"/>
+      <point x="352" y="388"/>
+      <point x="353" y="326" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.Image.Brightness</key>
+      <real>0.7319587469100952</real>
+      <key>com.typemytype.robofont.Image.Contrast</key>
+      <real>1.0</real>
+      <key>com.typemytype.robofont.Image.Saturation</key>
+      <real>1.0</real>
+      <key>com.typemytype.robofont.Image.Sharpness</key>
+      <real>0.4000000059604645</real>
+    </dict>
+  </lib>
+</glyph>
